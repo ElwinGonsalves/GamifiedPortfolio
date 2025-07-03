@@ -1,15 +1,6 @@
 GAMIFIEDPORTFOLIO
 Transforming Portfolios into Engaging, Interactive Masterpieces
 
-
-Table of Contents
-Overview
-Getting Started
-Prerequisites
-Installation
-Usage
-Testing
-
 Overview
 GamifiedPortfolio is a versatile React component library crafted to build engaging, interactive web applications and portfolios effortlessly. It emphasizes accessibility, consistency, and responsiveness, enabling developers to create polished user interfaces with minimal effort. The core features include:
 
@@ -22,6 +13,8 @@ GamifiedPortfolio is a versatile React component library crafted to build engagi
 💅 Customizable & Extensible: Utility functions and shared styling conventions promote consistency and ease of customization.
 
 🌟 Interactive & Engaging: Designed to craft dynamic portfolios, dashboards, or interactive storytelling experiences.
+
+
 
 Getting Started
 Prerequisites
